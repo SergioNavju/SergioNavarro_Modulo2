@@ -1,0 +1,26 @@
+Lista de cosas que debemos almacenar
+	1.  Crear una cuenta para un alumno
+	2.  Crar una cuenta para profes
+	3.  Iniciar sesión
+	4.  Crear un curso
+	5.  Añadir recursos al curso (libros, PDFs, foros)
+	6.  Añadir asignaciones al curso
+	7.  Subida de archivos a asignaciones (alumno)
+	8.  Entrega de asignaciones (alumno)
+	9.  Retroalimentación a asignaciones 
+	10. Asignación de una calificación a actividades
+	11. Mensajes entre alumno y profesor
+	12. Hora donde un alumno entra a un recurso
+	13. Hora donde un alumno sale de un recurso
+	14. Que un alumno se una a un curso
+	15. Que el alumno pueda ver las calificaciones que tiene en cada una se las asignaciones
+	16. Que el profesor pueda descargar todas las calificaciones de sus alumnos
+	17. Abandonar un curso
+	18. Ver tareas pendientes en los cursos
+	19. Ver todos los cursos que ha creado un profesor
+	20. Ver los cursos en los que está inscrito un alumno
+	
+Caballero Antúnez Jesús Yael
+Cruz Fuentes Vianidxi Ximena
+Galindo Mena Francisco
+Navarro Juárez Sergio Damian
